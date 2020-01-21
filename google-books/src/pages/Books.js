@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import Jumbotron from "../components/Jumbotron";
 import API from "../utils/API";
 import DeleteBtn from "../components/DeleteBtn";
 import { Col, Row, Container } from "../components/Grid";
@@ -27,7 +26,7 @@ class Books extends Component {
         <Row>
           <Col size="md-6">
             <form>
-              <h1>Book Search</h1>
+              <h3>Book Search</h3>
               <Input name="title" placeholder="Title (required)" />
               <FormBtn>Submit Book</FormBtn>
             </form>
