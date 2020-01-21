@@ -1,5 +1,13 @@
+.navbar {
+  background-color: rgb(90, 17, 17);
+}
+
+a {
+  color: white;
+}
+
 .jumbotron {
-  background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701387631.jpg");
+  background-image: url("https://backgroundcheckall.com/wp-content/uploads/2018/10/books-images-background-hd.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
